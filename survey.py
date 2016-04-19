@@ -1,0 +1,10 @@
+print "Welcome to the survey!"
+name = raw_input("What is your name?")
+color = raw_input("What is your favorite color?")
+hobby = raw_input ("What is your favorite hobby?")
+movie = raw_input ("What is your favorite movie?")
+age = raw_input ("How old are you?")
+car = raw_input("What is your favorite car?")
+print "%s's favorite color is %s" %(name, color)
+print "%s's favorite hobby ia %s" %(name,hobby)
+print "%s's favorite movie is %s" %(name, movie)
